@@ -1,0 +1,21 @@
+# Jupyter Notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# 其他常见临时文件
+*.log
+*.tmp
