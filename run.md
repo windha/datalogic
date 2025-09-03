@@ -1,3 +1,4 @@
+uv init --project .   -p 3.10
 
 $ uv run.md 
 
